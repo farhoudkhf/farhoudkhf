@@ -34,9 +34,11 @@ Strong background in **Data Analysis**, **Database Management**, **CRM Systems**
 
 > 📌 *More projects coming soon!*
 
+<!--
 ## 📈 GitHub Stats
 
 ![Farhoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhoudkhf&show_icons=true&theme=default)
+-->
 
 ## 🤝 Let's Connect
 
