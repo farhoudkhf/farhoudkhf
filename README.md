@@ -1,7 +1,6 @@
 
 # Hello 👋
 
-<!-- Welcome to my GitHub portfolio!  -->
 <h3 align="center">Data Analyst | SQL | Python | Automation | Power BI</h3>
 
 Strong background in **Data Analysis**, **Database Management**, **CRM Systems**, **Technical Support**, **SaaS**, and **Cloud Applications**.
