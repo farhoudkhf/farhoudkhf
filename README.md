@@ -8,7 +8,7 @@ Strong background in **Data Analysis**, **Database Management**, **CRM Systems**
 
 ## 🚀 About Me
 
-- 🎓 BSc in Computing from Birkbeck, University of London
+- 🎓 BSc in Computing from University of London, Birkbeck
 - 🛠️ Skilled in **SQL, VBA, Power BI, DAX, Power Query, Dynamics 365 CRM, and more**
 - 💼 6+ years of experience in **data transformation, system support, and project management**
 - 🌎 Currently based in **Vancouver, BC, Canada**
