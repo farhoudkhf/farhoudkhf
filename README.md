@@ -17,7 +17,7 @@ Strong background in **Data Analysis**, **Database Management**, **CRM Systems**
 ## 🧰 Tools & Technologies
 
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/ProgreSQL-008bb9?style=for-the-badge&logo=PostgreSQL&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-008bb9?style=for-the-badge&logo=PostgreSQL&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
