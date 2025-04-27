@@ -22,7 +22,6 @@ Strong background in **Data Analysis**, **Database Management**, **CRM Systems**
 ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)
 
 
-
 ## 📂 Featured Projects
 
 - **[Talent Gap Analysis Dashboard](https://github.com/farhoudkhf)**  
@@ -42,7 +41,7 @@ Strong background in **Data Analysis**, **Database Management**, **CRM Systems**
 ![Farhoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhoudkhf&show_icons=true&theme=default)
 -->
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/farhoudkhf/)
 <!-- - [Personal Website](https://your-website.com) -->
@@ -56,7 +55,22 @@ Thanks for stopping by! 🚀
 
 
 <h3 align="left"></h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a>
+</p>
 
 
 
