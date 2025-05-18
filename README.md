@@ -33,6 +33,9 @@ Strong background in **Data Analysis**, **Database Management**, **CRM Systems**
 - **[Healthcare Data Insights](https://github.com/farhoudkhf)**  
   Analyzed healthcare workforce data to provide actionable insights for NHS Professionals.
 
+- **[Rota Optimizer - js](https://github.com/farhoudkhf/project_AI_Rota_Optimizer_RetailUseCase_js/tree/main)**  
+  Optimize workforce allocation by dynamically managing daily/hourly staff coverage and breaks against operational demands.
+
 > 📌 *More projects coming soon!*
 
 <!--
