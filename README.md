@@ -1,5 +1,5 @@
 
-# Hello 👋
+<!-- # Hello 👋 -->
 
 <h3 align="center">Data Analyst | SQL | Python | Automation | Power BI</h3>
 
