@@ -64,7 +64,7 @@ Thanks for stopping by! 🚀
   <a href="#"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a> 
-  <a> 
+  <a href="#"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="#"> 
@@ -73,7 +73,7 @@ Thanks for stopping by! 🚀
   <a href="#"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a>
+  <a href="#">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
   </a>
 </p>
