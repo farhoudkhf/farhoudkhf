@@ -53,7 +53,7 @@ Strong background in **Data Analysis**, **Database Management**, **CRM Systems**
 
 ---
 
-Thanks for stopping by! 🚀
+
 
 
 
