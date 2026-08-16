@@ -3,7 +3,7 @@
 
 <h3 align="center">Data Analyst | SQL | Python | Automation | Power BI</h3>
 
-Strong background in **Data Analysis**, **Database Management**, **CRM Systems**, **Technical Support**, **SaaS**, and **Cloud Applications**.
+Strong background in **Data Analysis**, **Database Management**, **CRM Systems**, **SaaS**, and **Cloud Applications**.
 
 ## About Me
 
